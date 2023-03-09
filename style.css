@@ -1,0 +1,1978 @@
+body 
+{
+
+background-color: #f9f9f9 !important; 
+}
+
+/* HEADER */
+
+
+header
+{
+
+}
+
+.pre-header 
+{
+
+background-color: #111618;
+height: 60px;
+color: white;   
+padding-top: 15px;
+clip-path: polygon(0 0, 100% 0, 100% 100%, 1.5% 100%);
+text-transform: uppercase;
+}
+
+.sos 
+{
+    color: #b5b6b7;
+}
+
+.plus
+{
+width: 10px;
+margin-bottom: 4px;
+
+}
+
+.slash
+{
+    margin-right: -2px;
+    margin-bottom: 2px;
+    width: 12px;
+    height: 12px;
+}
+
+.phone
+{
+    width: 12px;
+    margin-bottom: 2px;
+}
+
+.social-icon
+{
+    width: 20px;
+    margin-bottom: 5px;
+}
+
+
+
+.secondary-menu
+{
+color: #b5b6b7;
+}
+
+.pre-header ul 
+{
+list-style: none;
+}
+
+.pre-header .secondary-menu li 
+{
+display: inline-block;
+margin-left: 15px;
+}
+
+.pre-header .secondary-menu li a 
+{
+color: #aaacad;
+}
+
+.main-nav 
+{
+padding-top: 15px;
+text-decoration: none;
+padding-bottom: 15px;
+height: 70px;
+}
+
+.main-nav ul li  
+{
+    padding-top: 5px;
+display: inline-block;
+list-style: none;
+text-decoration: none;
+margin-left: 10px;
+}
+
+.main-nav ul li a
+{
+text-decoration: none;
+color: #aaacad;
+text-transform: uppercase;
+}
+
+.main-nav .main-menu .free-qoute-btn a 
+{
+    background-image: linear-gradient(to right, #3f49f4, #5826f0);
+padding: 5px;
+color: white;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 80%, 95% 100%, 0 100%, 0% 70%, 0 0);
+}
+
+.main-nav .main-menu .free-qoute-btn  :hover
+{
+    background-image: linear-gradient(to right, #2e35b6, #431faf);
+    -webkit-box-shadow: 7px 9px 43px -19px rgba(0,0,0,0.71);
+    -moz-box-shadow: 7px 9px 43px -19px rgba(0,0,0,0.71);
+    box-shadow: 7px 9px 43px -19px rgba(0,0,0,0.71);
+color: white;
+transition: 0.4s; /* by milos */
+}
+
+.slash-gradient
+{
+    width: 12px;
+    margin-bottom: 2.5px;
+   margin-right: -3px;
+}
+
+/* HEADER */
+
+
+
+/* Cyber-security */
+
+.cyber-security 
+{
+height: 500px;
+background-image: url(img/cyber.jpg);
+padding-top: 125px;
+padding-bottom: 115px;
+background-size: cover;
+}
+
+.cyber-line
+{
+    margin: 0 auto;
+    width: 40px;
+     border-bottom: 2px dotted #5e4075;
+   margin-top: -5px;
+  padding-bottom: 2px;
+}
+
+.cyber-line1
+{
+    width: 70px;
+     border-bottom: 2px solid #ffffff;
+   margin-top: -5px;
+  padding-bottom: 2px;
+
+}
+
+.cyber-security h1  
+{
+    font-size: 52px;
+color: white;
+text-transform: uppercase;
+margin-bottom: 20px;
+}
+
+.cyber-security p 
+{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.button-cyber a 
+{
+    background-image: linear-gradient(to right, #3f49f4, #5826f0);
+    padding: 10px;
+    color: white;
+    clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 80%, 95% 100%, 0 100%, 0% 70%, 0 0);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.button-cyber :hover 
+{
+    background-image: linear-gradient(to right, #2e35b6, #431faf);
+    -webkit-box-shadow: 7px 9px 43px -19px rgba(0,0,0,0.71);
+    -moz-box-shadow: 7px 9px 43px -19px rgba(0,0,0,0.71);
+    box-shadow: 7px 9px 43px -19px rgba(0,0,0,0.71);
+color: white;
+transition: 0.4s; /* by milos */
+}
+
+/* Cyber-security */
+
+
+/* Services section */
+.services-section .our-services
+{
+background: -webkit-linear-gradient(#9a8ac8,#431faf);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.services-section .paragraph
+{
+    color: #6a6b6c;
+}
+
+.line-services
+{
+   margin: 0 auto;
+  width: 40px;
+   border-bottom: 2px dotted #aaacad;
+ margin-top: 1.5px;
+
+}
+
+.services-text
+{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+.services-section 
+{
+display: grid;
+justify-content: center;
+align-content: center;
+gap: 40px;
+}
+
+.services-section .item1 
+{
+text-align: center;
+    width: 280px;
+    height: 500px;
+background-color: #111618;
+color: white;
+margin-bottom: 50px;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+text-transform: uppercase;
+}
+
+.services-section .item2 
+{
+text-align: center;
+    width: 280px;
+    height: 500px;
+background-color: #580992;
+color: white;
+margin-bottom: 50px;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+text-transform: uppercase;
+}
+
+.services-section .item3 
+{
+text-align: center;
+    width: 280px;
+    height: 500px;
+background-color: #1c1f21;
+color: white;
+margin-bottom: 50px;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+text-transform: uppercase;
+}
+
+.services-section .item1 p 
+{
+    font-size: 12px;
+    color: #b6b9bb;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.services-section .item2 p 
+{
+    font-size: 12px;
+    color: #b6b9bb;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.services-section .item3 p 
+{
+    font-size: 12px;
+    color: #b6b9bb;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.img 
+{
+width: 280px;
+}
+
+.services-section .item1 a 
+{
+color: white;
+text-decoration: none;
+display: inline-block;
+border: 2px solid #fff;
+padding: 5px;
+}
+
+.services-section .item2 a 
+{
+color: white;
+text-decoration: none;
+display: inline-block;
+border: 2px solid #fff;
+padding: 5px;
+}
+
+.services-section .item3 a 
+{
+color: white;
+text-decoration: none;
+display: inline-block;
+border: 2px solid #fff;
+padding: 5px;
+}
+
+.services-section .services-text h4 
+{
+    color: #580992;
+text-transform: uppercase;
+font-size: 18px;
+}
+
+.services-section .item1:hover 
+{
+background-color: #290741;
+transition: 0.5s;
+margin-top: -11px;
+}
+
+.services-section .item2:hover:hover 
+{
+background-color: #290741;
+transition: 0.5s;
+margin-top: -11px;
+}
+
+.services-section .item3:hover:hover 
+{
+background-color: #290741;
+transition: 0.5s;
+margin-top: -11px;
+}
+
+
+
+/* Services section */
+
+
+
+/* How it works */
+
+.how-it-works 
+{
+text-align: center;
+background-image: url(img/how-it-works.jpg) ;
+color: white;
+background-size: cover;
+padding-top: 40px;
+height: 570px;
+margin-bottom: 50px;
+}
+
+.how-it-works a 
+{
+display: block;
+margin-top: 55px;
+}
+
+.how-it-works h4 
+{
+text-transform: uppercase;
+font-size: 18px;
+color: #8a27d1;
+}
+
+.ex-text
+{
+    background: -webkit-linear-gradient(#ac95f1,#4e339f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.how-line
+{
+    margin: 0 auto;
+  width: 40px;
+   border-bottom: 2px dotted #5e4075;
+ margin-top: -5px;
+}
+
+.how-it-works h3
+{
+    padding-top: 10px;
+    font-size: 40px;
+}
+
+.how-it-works p
+{
+    color: #fdfdfe;
+}
+
+.img-how
+{
+    width: 800px;
+}
+
+/* How it works */
+
+
+/* Customers say */
+
+.customers-say 
+{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    gap: 40px;
+padding-top: 100px;
+padding-bottom: 100px;
+}
+
+.customers-say h2
+{
+    color: #343434;
+    text-transform: uppercase;
+}
+
+.customers-say .test1
+{
+background-image: url(img/face1.jpg);
+width: 220px;
+height: 280px;
+background-size: cover;
+background-position: center;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+}
+
+.customers-say .test2
+{
+background-image: url(img/face2.jpg);
+width: 220px;
+height: 280px;
+background-size: cover;
+background-position: center;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+}
+
+.customers-say .test3
+{
+background-image: url(img/face3.jpg);
+width: 220px;
+height: 280px;
+background-size: cover;
+background-position: center;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+}
+
+.customers-say .test4
+{
+background-image: url(img/face4.jpg);
+width: 220px;
+height: 280px;
+background-size: cover;
+background-position: center;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+}
+
+.customers-say .testimonial-inner
+{
+color: white;
+background-color: rgba(0, 0, 0, 35%);
+height: 100%;
+padding: 30px;
+position: relative;
+}
+
+.testimonial-content 
+{
+position: absolute;
+bottom: 10px;
+}
+
+.customers-say .testimonial-content ::before
+{
+    content: "";
+width: 3px;
+height: 55px;
+background-color: white;
+position: absolute;
+left: -10px;
+top: 5px;
+}
+
+.customers-say h2 
+{
+font-size: 30px;
+padding-bottom: 15px;
+}
+
+.linecusttext ::before
+{
+    content: "";
+    background-color: #343434;
+    width: 600px;
+    height: 2px;
+position: absolute;
+left: 220px;
+margin-top: 30px;
+}
+
+.linecustdiv 
+{
+position: relative;
+}
+
+.customers-say h6
+{
+    color: #f7f7f7;
+}
+
+/* Customers say */
+
+
+
+/* About us */
+
+.about-us 
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+ color: white;
+background-image: url(img/how-it-works.jpg);
+background-size: cover;
+}
+
+.aboutdiv 
+{
+position: relative;
+}
+
+.aboutkvadrat ::before
+{
+    content: "";
+    background-color: #2969f8;
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+    position: absolute;
+    left: 1px;
+    top: -16px;
+    margin-top: 30px;
+}
+
+.about-us h3 
+{
+border-bottom: 1px dotted;
+text-transform: uppercase;
+padding-bottom: 5px;
+}
+
+.about-us h2
+{
+    padding-top: 20px;
+}
+
+.about-us p 
+{
+    padding-top: 10px;
+}
+
+.about-us ul
+{
+    padding-top: 15px;
+    text-decoration: none;
+    padding-left: 0px;
+}
+
+.about-us ul li
+{
+    list-style-type: none;
+}
+
+.exactly
+{
+    width: 13px;
+    padding-bottom: 4px;
+}
+
+.about-us h3
+{
+    padding-left: 15px;
+}
+
+/* About us */
+
+
+/* Cyber security school  */
+
+.cyber-security-school 
+{
+padding-top: 100px;
+padding-bottom: 100px;
+text-align: center;
+}
+
+.cyber-security-school .school-inner 
+{
+background-image: url(img/school-inner-cyber-security.jpg);
+padding: 50px;
+background-size: cover;
+}
+
+.cyber-security-school .school-inner .school-overlay
+{
+background-color: rgba(0, 0, 0, 0.5);
+height: 100%;
+color: white;
+padding: 30px;
+}
+
+.button-security 
+{
+    display: inline-block;
+background-color: #2969f8;
+color: white; 
+text-decoration: none;
+margin-top: 25px;
+padding-left: 7px;
+padding-right: 7px;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 85%, 90% 100%, 0 100%, 0% 70%, 0 0);
+}
+
+.button-security2
+{
+    display: inline-block;
+background-color: #2969f8;
+color: white; 
+text-decoration: none;
+margin-top: 25px;
+padding: 6px;
+padding-left: 15px;
+padding-right: 15px;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 85%, 90% 100%, 0 100%, 0% 70%, 0 0);
+}
+
+
+
+.cyber-security-school .school-inner  #countdown
+{
+    display: inline-block;
+padding: 10px;
+padding-left: 30px;
+padding-right: 30px;
+font-size: 22px;
+border: 2px solid white;
+
+}
+
+.cyber-security-school h1 
+{
+    margin: 20px;
+}
+
+.cyber-text
+{
+    background: -webkit-linear-gradient(#9a8ac8,#431faf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+text-transform: uppercase;
+font-size: 15px;
+margin-bottom: 5px;
+}
+
+.cyber-security-school h2
+{
+    color: #343434;
+    text-transform: uppercase;
+    padding-top: 10px;
+}
+
+
+
+.cyber-security-school .cyber-text-2
+{
+  color: #a5a5a5;
+  padding-bottom: 15px;
+  
+}
+
+.cyber-security-school a
+{
+    color: white;
+}
+
+.cyber-security-school a
+{
+    color: rgb(255, 255, 255);
+}
+.cyber-security-school a:hover
+{
+    color: white;
+    background-color: #2e35b6;
+}
+
+/* Cyber security school  */
+
+
+/* Contact section  */
+
+.contact-section 
+{
+background-image: url(img/hack-daily.jpg);
+background-size: cover;
+padding-bottom: 70px;
+margin-bottom: 50px;
+}
+
+.text-contact 
+{
+color: white;
+}
+
+
+.quadrat
+{
+    left: 0;
+    width: 10px;
+ padding-bottom: 5px;
+}
+
+.contact-section-title 
+{
+    padding-top: 80px;
+    padding-bottom: px;
+text-align: center;
+color: white;
+background-color: rgba(0, 0, 0, 0.2);
+}
+
+.space-between-container
+{
+padding: 40px;
+}
+
+.text-contact h3
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.text-contact h4 
+{
+border-bottom: 1px dotted white;
+padding-bottom: 5px;
+}
+
+.form-overlay 
+{
+    padding: 50px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.contact-section form textarea, .contact-section form input, .contact-section button 
+{
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.contact-section form textarea 
+{
+  height: 70px;
+}
+
+.contact-section form input, .contact-section button
+{
+    height: 40px;
+}
+
+.contact-section button
+{
+background-color: #2969f8;
+color: white;
+text-transform: uppercase;
+bottom: 0;
+border: 0;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 80%, 97% 100%, 0 100%, 0% 70%, 0 0);
+}
+
+.contact-section button:hover
+{
+    background-color: #457cf3;
+}
+
+.contact-section label 
+{
+color: white;
+padding-bottom: 2px;
+}
+
+.contact-text-space
+{
+   font-weight: 400;
+   padding-bottom: 10px;
+}
+
+/* Contact section  */
+
+
+
+/* Pricing plans  */
+
+.pricing-plans .one
+{
+text-align: center;
+}
+
+.pricing-plans .p-price
+{
+    color: #6a6b6c;
+    text-align: center;
+}
+
+.pricing-plans h3
+{
+    background: -webkit-linear-gradient(#9a8ac8,#431faf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+text-transform: uppercase;
+font-size: 15px;
+margin-bottom: 5px;
+}
+
+.pricing-plans .pricing-line
+{
+    margin: 0 auto;
+    width: 40px;
+     border-bottom: 2px dotted #5e4075;
+   margin-top: -5px;
+  padding-bottom: 2px;
+}
+
+.pricing-plans h2
+{
+    text-transform: uppercase;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* Pricing plans  */
+
+
+/* Focus on your profit  */
+
+.focus-on-your-profit
+{
+    color: white;
+    margin-bottom: 50px;
+text-align: center;
+width: 100%;
+height: 520px;
+background-image: url(img/profit-background.jpg);
+background-size: cover;
+}
+
+.focus-on-your-profit h2 
+{
+    font-size: 35px;
+}
+
+.focus-on-your-profit .container 
+{
+padding-top: 130px;
+background-image: url(img/focus-margine.png);
+background-repeat: no-repeat;
+background-size: 500px;
+background-position: center;
+background-position-y: 140px;
+}
+
+.focus-on-your-profit .focus-button
+{
+    background-color: transparent;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+border: 1px solid white;
+color: white;
+}
+
+/* Focus on your profit  */
+
+
+/* Footer  */
+
+.secondary-footer
+{
+    width: 100%;
+    height: 350px;
+}
+
+.footer 
+{
+    padding-top: 14px;
+    color: white;
+    width: 100%;
+    height: 50px;
+    background-color: #111618;
+  text-transform: uppercase;
+}
+
+.footer a 
+{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
+
+.sec-footer-quadrat
+{
+    width: 4%;
+    margin-top: -4px;
+    margin-left: 0px;
+}
+
+.sec-line
+{
+    width: 200px;
+     border-bottom: 2px dotted #000000;
+   margin-top: -15px;
+  padding-bottom: 2px;
+  margin-bottom: 10px;
+}
+
+.sec-slash
+{
+    width: 10px;
+vertical-align: text-top;
+margin-top: 7px;
+}
+
+.secondary-footer h6
+{
+padding: 0px;
+margin: 0;
+}
+
+.footer span a
+{
+  color: #3d68f6; 
+}
+
+.footer span a:hover
+{
+ color: #2e35b6;
+}
+
+.slash-footer
+{
+    width: 10px;
+    padding-bottom: 3px;
+}
+
+.icon-footer
+{
+    width: 25px;
+    margin-left: 10px;
+    border: 1px solid rgb(202, 200, 200);
+}
+
+.logo
+{
+    padding-bottom: 20px;
+}
+
+.h4-footer
+{
+    padding-bottom: 10px;
+}
+
+.secondary-footer h6
+{
+    padding-bottom: 5px;
+}
+
+/* Footer  */
+
+
+  
+
+.responsive-menu
+{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+/* RESPONSIVE */
+
+@media only screen and (max-width:1580px)
+{
+.pre-header .secondary-menu
+{
+    margin-left: -150px;
+}
+
+
+}
+
+@media only screen and (max-width:1220px)
+{
+    .social-icon
+    {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:1000px)
+{
+    .phone {display: none;}
+    .sos {display: none;}
+
+    .responsive-menu 
+    {
+margin-left: 30px;
+display: block;
+color: #b5b6b7;
+text-decoration: none;
+text-align: center;
+position: relative;
+    }
+.phone-res
+{
+    width: 12px;
+    margin-bottom: 2px;
+  
+}
+
+.pre-header .col-md-6 {display: none;}
+
+.hamburger
+{
+    display: block;
+    position: absolute;
+    margin-left: 30px;
+}
+
+
+
+}
+
+@media only screen and (max-width:1400px)
+{
+    .main-nav {
+        height: 90px;
+    }
+}
+
+@media only screen and (max-width:1000px)
+{
+    .main-nav {
+        height: 120px;
+       
+    }
+
+}
+
+@media only screen and (max-width:500px)
+{
+    .main-nav {
+        height: 160px;
+    }
+}
+
+@media only screen and (max-width:800px)
+{
+    .main-nav .main-menu 
+    {
+        margin-top: 5px;
+        margin-left: -40px;
+       
+    }
+}
+
+@media only screen and (max-width:770px)
+{
+    .main-nav 
+    {
+        height: 140px;
+    }
+}
+
+@media only screen and (max-width:450px)
+{
+    .main-nav 
+    {
+        height: 160px;
+    }
+}
+
+@media only screen and (max-width:300px)
+{
+    .main-nav 
+    {
+        height: 200px;
+    }
+}
+
+
+@media only screen and (max-width:1000px)
+{
+.cyber-security
+{
+    height: 700px;
+}
+
+.services-section .row .col-md-4
+{
+margin-right: 30px;
+margin-left: 30px;
+}
+
+.services-section .row 
+{
+    justify-content: center;
+}
+
+}
+
+@media only screen and (max-width:770px)
+{
+    .services-section .row .col-md-4
+    {
+        justify-content: center;
+    }
+}
+
+
+
+
+/*dopuna za our service sekciju */
+
+
+.naslov
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.services-section-new
+{
+    display: grid;
+border: none;
+text-decoration: none;
+
+}
+
+.services-section-new img
+{
+    width: 100%;
+}
+
+.cards
+{
+width: 1000px;
+height: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(150px,1fr));
+    padding: 20px;
+    grid-gap: 75px;
+    margin: 0 auto;
+color: white;
+padding-bottom: 40px;
+}
+
+.img-service1
+{
+    width: 100%;
+}
+
+.card1
+{
+    height: 550px;
+    text-align: center;
+background-color: #111618;
+color: white;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+text-transform: uppercase;
+text-decoration: none;
+}
+
+.card2
+{
+    height: 550px;
+    text-align: center;
+    background-color: #580992;
+color: white;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+text-transform: uppercase;
+}
+
+.card3
+{
+    height: 550px;
+    text-align: center;
+background-color: #111618;
+color: white;
+clip-path: polygon(30% 0%, 100% 0, 100% 30%, 100% 95%, 95% 100%, 0 100%, 0% 70%, 0 0);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.23);
+text-transform: uppercase;
+}
+
+.services-section-new a
+{
+    color: white;
+text-decoration: none;
+display: inline-block;
+border: 2px solid #fff;
+padding: 5px;
+}
+
+.services-section-new .card1:hover 
+{
+background-color: #290741;
+transition: 0.5s;
+margin-top: -11px;
+}
+
+.services-section-new .card2:hover:hover 
+{
+background-color: #290741;
+transition: 0.5s;
+margin-top: -11px;
+}
+
+.services-section-new .card3:hover:hover 
+{
+background-color: #290741;
+transition: 0.5s;
+margin-top: -11px;
+}
+
+.our-services-new 
+{
+    background: -webkit-linear-gradient(#9a8ac8,#431faf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.services-section-new .paragraph-new
+{
+    color: #6a6b6c;
+}
+
+@media only screen and (max-width:976px)
+{
+    .services-section-new
+    {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:1000px)
+{
+    .cards
+    {
+        width: auto;
+    }
+}
+
+
+
+
+@media only screen and (max-width:800px)
+{
+    .img-how
+    {
+      width: 100%;
+    }
+}
+
+@media only screen and (max-width:640px)
+{
+    .services-section-new .cards
+    {
+        grid-gap: 20px;
+    }
+}
+
+@media only screen and (max-width:768px)
+{
+.cyber-security
+{
+    height: 500px;
+}
+}
+
+@media only screen and (max-width:455px)
+{
+.cyber-security
+{
+    height: 550px;
+}
+}
+
+@media only screen and (max-width:397px)
+{
+.cyber-security
+{
+    height: 600px;
+}
+}
+
+@media only screen and (max-width:320px)
+{
+.cyber-security
+{
+    height: 650px;
+}
+}
+
+@media only screen and (max-width:244px)
+{
+.cyber-security
+{
+    height: 700px;
+}
+}
+
+@media only screen and (max-width:280px)
+{
+.cyber-security h1
+{
+font-size: 40px;
+}
+}
+
+@media only screen and (max-width:250px)
+{
+.cyber-security h1
+{
+font-size: 30px;
+}
+}
+
+@media only screen and (max-width:253px)
+{
+.main-nav
+{
+height: 250px;
+}
+}
+
+@media only screen and (max-width:410px)
+{
+.pre-header .responsive-menu
+{
+display: none;
+}
+}
+
+@media only screen and (max-width:710px)
+{
+.how-it-works
+{
+height: auto;
+}
+}
+
+
+@media only screen and (max-width:992px)
+{
+.test1
+{
+margin-left: 0px;
+}
+}
+
+@media only screen and (max-width:530px)
+{
+
+.cards
+{
+    display: block;
+}
+.card1
+{
+    margin: 0 auto;
+    width: 300px;
+    height: 700px;
+    margin-bottom: 30px;
+}
+
+.card2
+{
+    margin: 0 auto;
+    width: 300px;
+    height: 700px;
+    margin-bottom: 30px;
+}
+
+.card3
+{
+    margin: 0 auto;
+    width: 300px;
+    height: 700px;
+    margin-bottom: 30px;
+}
+}
+
+
+@media only screen and (max-width:900px)
+{
+    .cards
+    {
+        grid-gap: 20px;
+    }
+}
+
+@media only screen and (max-width:530px)
+{
+    .card1
+    {
+    height: 600px;   
+    }
+
+    .card2
+    {
+    height: 600px;   
+    }
+
+    .card3
+    {
+    height: 600px;   
+    }
+}
+
+
+@media only screen and (max-width:992px)
+{
+    .customers-say .test1
+    {
+        width: 160px;
+        height: 230px;
+    }
+
+    .customers-say .test2
+    {
+        width: 160px;
+        height: 230px;
+    }
+
+    .customers-say .test3
+    {
+        width: 160px;
+        height: 230px;
+    }
+
+    .customers-say .test4
+    {
+        width: 160px;
+        height: 230px;
+    }
+
+    .customers-say
+    {
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width:950px)
+{
+    .linecusttext ::before
+    {
+        content: "";
+        background-color: #343434;
+        width: 400px;
+        height: 2px;
+    position: absolute;
+    left: 220px;
+    margin-top: 30px;
+    }   
+
+}
+
+@media only screen and (max-width:768px)
+{
+
+    .customers-say
+    {
+display: block;
+    }
+
+    .linecusttext ::before
+    {
+       display: none;
+    }
+{
+    
+}
+    .customers-say .test1
+    {
+        margin: 0 auto;
+        width: 300px;
+        height: 400px;
+        margin-bottom: 40px;
+    }
+
+    .customers-say .test2
+    {
+        margin: 0 auto;
+        width: 300px;
+        height: 400px;
+        margin-bottom: 40px;
+    }
+
+    .customers-say .test3
+    {
+        margin: 0 auto;
+        width: 300px;
+        height: 400px;
+        margin-bottom: 40px;
+    }
+
+    .customers-say .test4
+    {
+        margin: 0 auto;
+        width: 300px;
+        height: 400px;
+        margin-bottom: 40px;
+    }
+
+    .customers-say h2
+    {
+        font-size: 30px;
+    }
+}
+
+
+@media only screen and (max-width:780px)
+{
+    .about-us
+    {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+
+@media only screen and (max-width:420px)
+{
+    .about-us .about-us-img
+    {
+        display: block;
+        width: 300px;
+     margin: 0 auto;
+
+    }
+}
+
+@media only screen and (max-width:330px)
+{
+    .about-us .about-us-img
+    {
+        display: block;
+        width: 200px;
+     margin: 0 auto;
+
+    }
+}
+
+@media only screen and (max-width:200px)
+{
+    .about-us .about-us-img
+    {
+        display: block;
+        width: 150px;
+     margin: 0 auto;
+
+    }
+}
+
+@media only screen and (max-width:340px)
+{
+    .customers-say .test1
+    {
+        width: 200px;
+        height: 290px;
+
+    }
+
+    .customers-say .test2
+    {
+        width: 200px;
+        height: 290px;
+
+    }
+
+    .customers-say .test3
+    {
+        width: 200px;
+        height: 290px;
+
+    }
+
+    .customers-say .test4
+    {
+        width: 200px;
+        height: 290px;
+
+    }
+}
+
+@media only screen and (max-width:240px)
+{
+    .customers-say .test1
+    {
+        width: 150px;
+        height: 200px;
+
+    }
+
+    .customers-say .test2
+    {
+        width: 150px;
+        height: 200px;
+
+    }
+
+    .customers-say .test3
+    {
+        width: 150px;
+        height: 200px;
+
+    }
+
+    .customers-say .test4
+    {
+        width: 150px;
+        height: 200px;
+
+    }
+}
+
+@media only screen and (max-width:600px)
+{
+    .about-us
+    {
+padding-left: 30px;
+    }
+}
+
+@media only screen and (max-width:340px)
+{
+    .about-us
+    {
+padding-left: 20px;
+
+    }
+}
+
+@media only screen and (max-width:270px)
+{
+    .about-us
+    {
+padding-left: 10px;
+    }
+}
+
+.secondary-footer
+{
+    position: relative;
+    display: inline-block;
+}
+
+
+
+@media only screen and (max-width:1400px)
+{
+   .sec-line
+   {
+    display: none;
+    
+   }
+}
+
+@media only screen and (max-width:1000px)
+{
+   .secondary-footer 
+   {
+display: none;
+    
+   }
+}
+
+
+@media only screen and (max-width:1000px)
+
+{
+
+    .footer h6
+    {
+  font-size: 10px;
+    }
+
+    .footer
+    {
+        font-size: 10px;
+    }
+
+}
+
+
+@media only screen and (max-width:1400px)
+{
+    .footer h6
+    {
+font-size: 15px;
+    }
+    .footer-link
+    {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width:1200px)
+{
+    .footer h6 
+    {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width:990px)
+{
+    .footer h6 
+    {
+        font-size: 10px;
+    }
+
+    .footer-link
+    {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width:768px)
+{
+.footer-link
+    {
+       display: none;
+    }
+    .footer h6
+    {
+        display: none;
+    }
+}
+
+
+
+.invisible-footer
+{
+    display: none;
+}
+
+@media only screen and (max-width:768px)
+{
+.invisible-footer 
+    {
+       display: block;
+       text-align: center;
+    }
+   
+    .footer
+    {
+        height: 40px;
+    }
+}
+
+@media only screen and (max-width:360px)
+{
+    .invisible-footer
+    {
+        font-size: 8px;
+    }
+}
+
+@media only screen and (max-width:290px)
+{
+    .invisible-footer
+    {
+        font-size: 7px;
+    }
+}
+
+@media only screen and (max-width:250px)
+{
+    .invisible-footer
+    {
+        font-size: 6px;
+    }
+    .footer
+    {
+        height: 35px;
+    }
+}
+
+@media only screen and (max-width:220px)
+{
+    .invisible-footer
+    {
+        font-size: 5px;
+    }
+    .footer
+    {
+        height: 35px;
+    }
+}
+
+@media only screen and (max-width:540px)
+{
+    .focus-on-your-profit .container 
+{
+background-size: 400px;
+}
+.focus-on-your-profit h2
+{
+    font-size: 25px;
+}
+.img-focus
+{
+    width: 40px;
+}
+
+.focus-on-your-profit
+{
+    height: 450px;
+}
+}
+
+@media only screen and (max-width:450px)
+{
+    .focus-on-your-profit .container 
+{
+background-size: 300px;
+}
+.focus-on-your-profit h2
+{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.img-focus
+{
+    width: 30px;
+}
+
+.focus-on-your-profit .focus-button
+{
+    font-size: 12px;
+    background-color: transparent;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+border: 1px solid white;
+color: white;
+}
+
+.focus-on-your-profit
+{
+    height: 400px;
+}
+
+
+}
+
+@media only screen and (max-width:310px)
+{
+    .focus-on-your-profit .container 
+{
+background-size: 200px;
+background-position: center;
+background-position-y: 80px;
+}
+.focus-on-your-profit h2
+{
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+.img-focus
+{
+    width: 20px;
+}
+
+.focus-on-your-profit p 
+{
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+.focus-on-your-profit .focus-button
+{
+    font-size: 10px;
+    background-color: transparent;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 5px;
+padding-bottom: 5px;
+border: 1px solid white;
+color: white;
+}
+
+.focus-on-your-profit
+{
+   
+    height: 250px;
+}
+
+.focus-on-your-profit .container
+{
+    padding-top: 70px;
+}
+}
+
+/*PRICING PLAN DODATNO */
+
+
+.pricing-plans h4
+{
+text-transform: uppercase;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 300;
+}
+
+/*PRICING PLAN DODATNO */
+

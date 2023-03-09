@@ -1,0 +1,2 @@
+Do 1200 secondary menu ostaje kakav jeste,ispod toga tj.1200px ide samo levi deo,a ovo ostalo ulazi u hamburger i sve na sredinu menija.
+
