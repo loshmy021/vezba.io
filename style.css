@@ -837,6 +837,8 @@ padding-bottom: 2px;
 .pricing-plans .one
 {
 text-align: center;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .pricing-plans .p-price
